@@ -1,0 +1,14 @@
+body {
+    background-color: #f5f7fb;
+    color: #212529;
+    font-family: Arial, sans-serif;
+}
+.login-card {
+    max-width: 420px;
+    margin-top: 50px;
+    border-radius: 14px;
+}
+.card { border-radius: 12px; }
+.btn { border-radius: 7px; }
+.form-control, .form-select { padding: 10px; }
+.table th { white-space: nowrap; }
